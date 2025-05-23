@@ -1,5 +1,6 @@
 <h1>ShootPassword</h1>
 
+<img src="https://github.com/emelyagr/ShootPassword/blob/main/ShootPassword.png" class="center" width="400" height="400">
 ShootPassword — консольная программа для генерации возможных электронных почт и сложных паролей на основе данных о человеке.
 
 <h2>Использование</h2>
